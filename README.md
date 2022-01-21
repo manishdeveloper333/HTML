@@ -1,14 +1,4 @@
-# html
-<html>
-    <head>
 
-<title>
-    home page HTML
-</title>  
-      <body>
-<h1>Html
-</h1>
-<pre>
 <P>    html is STAND HTML tutorial or HTML 5 tutorial provides basic and advanced concepts of HTML. 
     Our HTML tutorial is developed for beginners and professionals. In our tutorial, every topic is given step-by-step so that you can learn it in a very easy way. 
     If you are new in learning HTML, then you can learn HTML from basic to a professional level and after learning HTML with CSS and JavaScript you will be able to create your own interactive and dynamic website. 
@@ -47,17 +37,5 @@
     Every page that we witness on the world wide web is written using a version of HTML code.
     Document creation on the internet is dominated by HTML and its basic concept via tag and DOM, i.e. document object model. 
     HTML tags are inserted before and afterwards or phrases to locate their format and location on the page.
-    A web document consists of three sections: title, head, and body. 
-    <hr>
-</p>
-
-</pre>
-
-    </body>
-    
-    
-    
-    </head>
-</html
-
+    A web document consists of three sections: title, head
 
